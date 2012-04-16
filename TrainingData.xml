@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TRAINING_DATA>
+	<CLASS>
+	    <DESCRIPTION>Maptitude Training, October 6-7, 2008</DESCRIPTION>
+		<DATES>October 6-7, 2008</DATES>
+		<LOCATION>London, England UK</LOCATION>
+		<PRODUCT>Maptitude</PRODUCT>
+		<PRICE currency="dollars" unit="both days">1100</PRICE>
+		<ORGANIZATIONAL_DISCOUNT condition="3 or more co-workers">10%</ORGANIZATIONAL_DISCOUNT>
+		<DAY type="Both Days" date="October 6-7, 2008" optional="false">October 6-7, 2008</DAY>
+	</CLASS>
+</TRAINING_DATA>
